@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-m49y70.nuansa138win.space/sitemap.xml
